@@ -1,0 +1,21 @@
+<RCC>
+    <qresource prefix="/">
+        <file>qml/main.qml</file>
+        <file>qml/AboutMe.qml</file>
+        <file>qml/Contacts.qml</file>
+        <file>github.png</file>
+        <file>githubcat.png</file>
+        <file>gmail.png</file>
+        <file>me.png</file>
+        <file>qt.png</file>
+        <file>swipe.png</file>
+        <file>swiperight.png</file>
+        <file>youdo.png</file>
+        <file>qml/MyWorks.qml</file>
+        <file>qml/RenderableEntity.qml</file>
+        <file>swipeleft.png</file>
+        <file>tripolsky.obj</file>
+        <file>swipeupdown.png</file>
+        <file>qml/SettingsPage.qml</file>
+    </qresource>
+</RCC>
