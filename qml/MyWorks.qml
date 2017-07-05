@@ -105,7 +105,7 @@ Rectangle{
         ColumnLayout{
 
             Label{
-                text:"Я умею работать с 3D графикой"
+                text:"Я знаком с 3D графикой"
                 horizontalAlignment: Label.AlignHCenter
                 verticalAlignment: Label.AlignVCenter
                 wrapMode: Label.Wrap
@@ -212,7 +212,7 @@ Rectangle{
                             id: tripolskymesh
                             source: "qrc:/tripolsky.obj"
                             position: Qt.vector3d(1,1,1)
-                            scale:  0.001
+                            scale:  1.0
                             rotationAxis: Qt.vector3d(1, 0, 0)
                             rotationAngle: 90
 
